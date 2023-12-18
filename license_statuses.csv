@@ -1,0 +1,7 @@
+license_status_id,license_status
+1,Active
+2,Termination
+3,Inactive
+4,Suspended
+5,Permitted Use
+6,Non-exclusive
